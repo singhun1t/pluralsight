@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0233d449-1a44-4b07-96ee-d2228c2bad06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../MethodPractice/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SandwichShop/src/main/java/com/pluralsight/SandwichShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodPractice/src/main/java/com/pluralsight/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MethodPractice/src/main/java/com/pluralsight/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

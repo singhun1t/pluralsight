@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0233d449-1a44-4b07-96ee-d2228c2bad06" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../java-development/workbook-1/into-to-methods/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java-development/workbook-1/into-to-methods/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java-development/workbook-1/into-to-methods/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java-development/workbook-1/into-to-methods/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java-development/workbook-1/into-to-methods/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java-development/workbook-1/into-to-methods/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java-development/workbook-1/into-to-methods/src/main/java/com/pluralsight/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodPractice/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,16 +31,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/MANVI/Desktop/pluralsight/practice-projects/into-to-methods"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MANVI/Desktop/pluralsight/practice-projects/into-to-methods&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

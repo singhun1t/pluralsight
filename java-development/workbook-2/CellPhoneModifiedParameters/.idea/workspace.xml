@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f91e5a1d-55fe-4fca-8f53-01f8b2b14d67" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AddressBuilder/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBuilder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBuilder/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBuilder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBuilder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBuilder/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddressBuilder/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/CellPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/CellPhoneApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CellPhoneService/src/main/java/com/pluralsight/CellPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CellPhoneService/src/main/java/com/pluralsight/CellPhoneApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FullNameParser/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FullNameParser/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FullNameParser/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FullNameParser/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FullNameParser/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FullNameParser/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FullNameParser/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheaterReservations/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheaterReservations/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheaterReservations/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheaterReservations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheaterReservations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheaterReservations/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheaterReservations/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/String-builder-intro/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/String-builder-intro/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/String-builder-intro/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-classes/src/main/java/com/pluralsight/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-classes/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-classes/src/main/java/com/pluralsight/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-string-conversion/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-string-conversion/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-string-conversion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-string-conversion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-string-conversion/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-string-conversion/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice-projects/intro-to-string-conversion/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2fHEwS1zwrp3lxJawbQArsAFJJJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f91e5a1d-55fe-4fca-8f53-01f8b2b14d67" name="Changes" comment="" />
+      <created>1713449843041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713449843041</updated>
+    </task>
+    <servers />
+  </component>
+</project>

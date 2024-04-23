@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b85f489d-4763-4e6f-984c-92ee00b64167" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../java-development/workbook-3/FamousQuotes/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-development/workbook-3/Mod01/BedtimeStories/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-development/workbook-3/Mod03/FormatDates/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-development/workbook-3/Mod03/SearchEngineLogger/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-development/workbook-3/PayRollCalculatorUpdated/src/main/java/com/pluralsight/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-development/workbook-3/PayRollCalculatorUpdated/src/main/java/com/pluralsight/Payroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-development/workbook-3/PayrollCalculator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-development/workbook-3/PayrollCalculator/src/main/java/com/pluralsight/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-development/workbook-3/PayrollCalculator/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Date-time-formatting/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Date-time-formatting/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../File-IO-Intro/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intro-to-dates/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intro-to-exception-io/poem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intro-to-exception-io/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2fVMX0HYy6tg2dnlEk5xTsBGARi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MANVI/Desktop/pluralsight/practice-projects/BufferedWriterIntro&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="BufferedWriterIntro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="BufferedWriterIntro" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b85f489d-4763-4e6f-984c-92ee00b64167" name="Changes" comment="" />
+      <created>1713881829545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713881829545</updated>
+    </task>
+    <servers />
+  </component>
+</project>

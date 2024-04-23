@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10be637b-d650-4f3d-b23f-f6d278d80b80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../FamousQuotes/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mod01/BedtimeStories/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FormatDates/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PayRollCalculatorUpdated/src/main/java/com/pluralsight/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PayRollCalculatorUpdated/src/main/java/com/pluralsight/Payroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PayrollCalculator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PayrollCalculator/src/main/java/com/pluralsight/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PayrollCalculator/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../practice-projects/BufferedWriterIntro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../practice-projects/BufferedWriterIntro/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../practice-projects/Date-time-formatting/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../practice-projects/Date-time-formatting/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../practice-projects/File-IO-Intro/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../practice-projects/intro-to-dates/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../practice-projects/intro-to-exception-io/poem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../practice-projects/intro-to-exception-io/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2fVtcGE45iLGqwSYZD220fLADZG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10be637b-d650-4f3d-b23f-f6d278d80b80" name="Changes" comment="" />
+      <created>1713898152825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713898152825</updated>
+    </task>
+    <servers />
+  </component>
+</project>

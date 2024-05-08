@@ -1,6 +1,8 @@
 package com.pluralsight;
 
-import org.w3c.dom.ls.LSOutput;
+import java.time.Duration;
+import java.time.LocalDateTime;
+
 
 public class Employee {
     private int employeeId;
@@ -10,12 +12,13 @@ public class Employee {
     private double hoursWorked;
     private double startTime;
 
-    public Employee(int employeeId, String name, String department, double payRate, double hoursWorked) {
+    public Employee(int employeeId, String name, String department, double payRate) {
         this.employeeId = employeeId;
         this.name = name;
         this.department = department;
         this.payRate = payRate;
-        this.hoursWorked = hoursWorked;
+        this.hoursWorked = 0;
+        this.startTime = 0;
     }
 
     public int getEmployeeId() {
@@ -36,6 +39,44 @@ public class Employee {
 
     public double getHoursWorked() {
         return hoursWorked;
+    }
+
+    public void punchIn(double time) {
+        startTime = time;
+    }
+
+    public void punchIn(){
+        LocalDateTime now = LocalDateTime.now();
+        int hour = now.getHour();
+        int minute = now.getMinute();
+        double time = hour + (minute/60.0);
+        startTime = time;
+    }
+
+    public void punchOut(double time) {
+        double duration = time - startTime;
+        hoursWorked += duration;
+        startTime = 0;
+    }
+    public void punchOut(){
+        LocalDateTime now = LocalDateTime.now();
+        int hour = now.getHour();
+        int minute = now.getMinute();
+        double time = hour + (minute/60.0);
+        double duration = time - startTime;
+        hoursWorked += duration;
+        startTime = 0;
+
+    }
+
+    public void punchTimeCard(double time) {
+        if (startTime == 0) {
+            startTime = time;
+        } else {
+            double duration = time - startTime;
+            hoursWorked += duration;
+            startTime = 0;
+        }
     }
 
     public double getTotalPay() {
@@ -61,30 +102,4 @@ public class Employee {
             return 0;
         }
     }
-
-    public void punchIn(double time){
-        startTime = time;
-
-    }
-
-    public void punchOut(double time){
-
-        double duration = time - startTime;
-        hoursWorked += duration;
-        startTime = 0;
-
-    }
-
-    //punchtimeCard to handle punching in and out in only 1 method
-    public void punchTimeCard(Double time){
-        if (startTime == 0){
-            startTime = time;
-        }else{
-            double duration = time - startTime;
-            hoursWorked += duration;
-            startTime = 0;
-        }
-    }
-
-
 }

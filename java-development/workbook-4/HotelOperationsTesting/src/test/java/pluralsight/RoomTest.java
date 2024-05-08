@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class RoomTest {
 @Test
     //arange
-    public void checkIn_IfRoomIsAlreadyOccupied_UnableToCheckIn(){
+    public void checkIn_RoomInitialStatus_RoomIsOccupiedAndDirty(){
     Room myRoom = new Room(2,200);
 
 
@@ -15,23 +15,16 @@ class RoomTest {
     myRoom.checkIn();
 
     //assert
-    boolean isAvailable = false;
+    assertTrue(myRoom.isOccupied());
+    assertTrue(myRoom.isDirty());
+   /* boolean isAvailable = false;
     assertEquals(isAvailable, myRoom.isAvailable());
-}
-@Test
-    //arrange
-    public void checkIntoRoom_IfDirty(){
-    Room myRoom2 = new Room(2,200);
 
-    //act
-    myRoom2.checkIn();
-
-    //assert
-    assertEquals(myRoom2.isDirty(),myRoom2.isAvailable());
+    */
 }
 @Test
 //arrange
-public void checkout(){
+public void checkout_RoomIsOccupied_RoomIsNotOccupied(){
     Room myRoom2 = new Room(2,200);
     myRoom2.checkIn();
 
@@ -39,8 +32,12 @@ public void checkout(){
     myRoom2.checkout();
 
     //assert
-    boolean checkOut = false;
+    assertFalse(myRoom2.isOccupied());
+
+    /*boolean checkOut = false;
     assertEquals(myRoom2.isOccupied(),checkOut);
+
+     */
 
 }
 
@@ -55,8 +52,11 @@ public void checkout(){
     myRoom2.cleanRoom();
 
     //assert
-    boolean ableToClean = false;
+    assertFalse(myRoom2.isDirty());
+   /* boolean ableToClean = false;
     assertEquals(ableToClean, myRoom2.isDirty());
+
+    */
 }
 
 }

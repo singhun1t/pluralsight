@@ -18,10 +18,10 @@ From northwind.products
 Where UnitPrice <= 7.50;
 
 -- Question 5
-SELECT ProductID, ProductName, UnitsInStock
+SELECT ProductID, ProductName, UnitsInStock, UnitPrice
 From northwind.products
 WHERE UnitsInStock >= 100
-order by UnitsInStock desc;
+order by UnitPrice desc;
 
 -- Question 6
 SELECT ProductID, ProductName, UnitsInStock, UnitPrice 

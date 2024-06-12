@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4eafcd20-2b47-4aa0-a85b-3a08ca78eb5f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Mod03/NorthwindTraders/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mod03/NorthwindTraders/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mod03/NorthwindTraders/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mod03/NorthwindTraders/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mod03/NorthwindTraders/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mod03/NorthwindTraders/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mod03/NorthwindTradersPt2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mod03/NorthwindTradersPt2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mod03/NorthwindTradersPt2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mod03/NorthwindTradersPt2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mod03/NorthwindTradersPt2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mod03/NorthwindTradersPt2/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mod03/NorthwindTraderspt3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mod03/NorthwindTraderspt3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mod03/NorthwindTraderspt3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mod03/NorthwindTraderspt3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mod03/NorthwindTraderspt3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mod03/NorthwindTraderspt3/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mod03/NorthwindTraderspt4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mod03/NorthwindTraderspt4/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SakilaMoviespt2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SakilaMoviespt2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SakilaMoviespt2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SakilaMoviespt2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SakilaMoviespt2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SakilaMoviespt2/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SakilaMoviespt2/src/main/java/com/pluralsight/db/DataManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingDataSources/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingDataSources/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingDataSources/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingDataSources/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingDataSources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingDataSources/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-datamanager/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-datamanager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-datamanager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-datamanager/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-datamanager/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-datamanager/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-datamanager/src/main/java/com/pluralsight/db/DataManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-datamanager/src/main/java/com/pluralsight/models/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-intro-review/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-try-with-resources-review/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-try-with-resources/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-try-with-resources/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-try-with-resources/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-try-with-resources/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-try-with-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-try-with-resources/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-demo-mysql/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-demo-mysql/src/main/java/com/pluralsight/UsingDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-demo/src/main/java/com/pluralsight/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-demo/src/test/java/com/pluralsight/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-demo2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-demo2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-demo2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-demo2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-demo2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-demo2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-demo2/src/main/java/com/pluralsight/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-demo2/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-demo2/src/test/java/com/pluralsight/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2hmgjjGWqxFp1oMJYJiVddbhuvo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.Main" />
+      <module name="SakilaMovies" />
+      <option name="PROGRAM_PARAMETERS" value="root Bears@123" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4eafcd20-2b47-4aa0-a85b-3a08ca78eb5f" name="Changes" comment="" />
+      <created>1718204806446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718204806446</updated>
+    </task>
+    <servers />
+  </component>
+</project>
